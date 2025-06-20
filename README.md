@@ -23,6 +23,12 @@ Hi there 👋 welcome to my GitHub! I like turning ideas into code, learning new
 <br />
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/leonardo-noronha-dornelles-3a7151324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas michels" height="30" width="40" /></a>
+</p>
+
+---
 
 <p style="text-align: center;">Check out my repos ⬇️</p>
 
