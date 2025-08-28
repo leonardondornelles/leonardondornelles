@@ -25,7 +25,7 @@ Hi there 👋 welcome to my GitHub! I like turning ideas into code, learning new
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-noronha-dornelles-3a7151324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas michels" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-noronha-dornelles-3a7151324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo dornelles" height="30" width="40" /></a>
 </p>
 
 ---
