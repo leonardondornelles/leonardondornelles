@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leonardo Dornelles! 👋</h1>
 
 <h3 align="center">
-  Backend Developer | CS Student @ PUCRS | AI Research Assistant
+  Backend Developer | CS Student | AI Research Assistant
 </h3>
 
 <p align="center">
