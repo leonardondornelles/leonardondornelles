@@ -50,12 +50,4 @@ My main focus is building robust and scalable applications using the **Java Ecos
 
 <br>
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardondornelles&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
 <p align="center">Check out my pinned repositories below ⬇️</p>
