@@ -50,10 +50,11 @@ My main focus is building robust and scalable applications using the **Java Ecos
 
 <br>
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=leonardondornelles&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardondornelles&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardondornelles&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br>
 
