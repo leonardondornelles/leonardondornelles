@@ -1,34 +1,63 @@
-# 🌴 LeonardoND
+<h1 align="center">Hi, I'm Leonardo Dornelles! 👋</h1>
 
-Hi there 👋 welcome to my GitHub! I like turning ideas into code, learning new tech, and sometimes breaking stuff just to see how it works. Currently into JavaScript and exploring how things run behind the scenes on the internet 💻☁️
+<h3 align="center">
+  Backend Developer | CS Student @ PUCRS | AI Research Assistant
+</h3>
 
----
-
-###  When i code, I rely on
-
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-
-
-<br />
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardo-noronha-dornelles-3a7151324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo dornelles" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-noronha-dornelles-3a7151324/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:leonardondornelles@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
----
+<br>
 
-<p style="text-align: center;">Check out my repos ⬇️</p>
+### 👨‍💻 About Me
 
+I am a Computer Science student based in Porto Alegre, Brazil. Currently, I work as a **Scientific Initiation Researcher** at **DaVInt Lab** (Data Visualization and Interaction), focusing on Data Engineering and AI datasets validation.
 
-#
+My main focus is building robust and scalable applications using the **Java Ecosystem**.
+
+- 🔭 I’m currently working on a **Smart Parking System** using **Spring Boot 3 & Vaadin**.
+- 💼 I’m researching **Bot Detection & Data Quality** for AI models.
+- 🌱 I’m currently learning **Microservices Architecture** and **Advanced JPA**.
+- ⚡ Fun fact: I have a background in Game Development (C++/Unity) which gave me my strong logic foundation.
+
+<br>
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+**Tools & DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardondornelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardondornelles&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+<p align="center">Check out my pinned repositories below ⬇️</p>
