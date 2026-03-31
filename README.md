@@ -21,7 +21,7 @@ I am a Computer Science student based in Porto Alegre, Brazil. Currently, I work
 
 My main focus is building robust and scalable applications using the **Java Ecosystem**.
 
-- 🔭 I’m currently working on a **Smart Parking System** using **Spring Boot 3 & Vaadin**.
+- 🔭 I’m currently working on a **Saas for OOH Companies** using **Spring Boot & React**.
 - 💼 I’m researching **Bot Detection & Data Quality** for AI models.
 - 🌱 I’m currently learning **Microservices Architecture** and **Advanced JPA**.
 - ⚡ Fun fact: I have a background in Game Development (C++/Unity) which gave me my strong logic foundation.
